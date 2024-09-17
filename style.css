@@ -1,0 +1,13 @@
+body {
+    background-color: maroon;
+
+    background-image: url("unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+}
+
+button {
+    border: none;
+    /* padding: ; */
+}
